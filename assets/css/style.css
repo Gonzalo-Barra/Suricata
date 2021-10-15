@@ -1,0 +1,61 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #707070;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+#navbarNav{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: #707070;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #707070;
+}
+
+li{
+    font-family: 'Open Sans', sans-serif;
+    color: #707070;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.card-link{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.nav-link{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.logo{
+ font-size: 50px;
+ margin: 0 12px;
+}
+
+.titulo-mobile{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    
+}
